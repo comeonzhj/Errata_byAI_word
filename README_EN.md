@@ -4,6 +4,8 @@ English | [简体中文](README.md)
 
 An AI-powered Word document proofreading tool that automatically checks and annotates typos while providing correction suggestions.
 
+Created by Trae,prompt @ [How-to-prompt](How-to-prompt.md)
+
 ## Features
 
 - 🔍 Automatic typo detection in Word documents
